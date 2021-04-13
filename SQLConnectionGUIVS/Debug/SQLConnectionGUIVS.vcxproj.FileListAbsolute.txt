@@ -1,0 +1,6 @@
+D:\Programming\C++\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.vcxprojAssemblyReference.cache
+D:\Programming\C++\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.InsertData.resources
+D:\Programming\C++\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.vcxproj.GenerateResource.cache
+C:\Users\Josip\Documents\Programming\C++\GUIVS\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.vcxprojAssemblyReference.cache
+C:\Users\Josip\Documents\Programming\C++\GUIVS\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.InsertData.resources
+C:\Users\Josip\Documents\Programming\C++\GUIVS\SQLConnectionGUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.vcxproj.GenerateResource.cache

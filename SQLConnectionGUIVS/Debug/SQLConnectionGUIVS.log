@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+  InsertData.cpp
+C:\Users\Josip\Documents\Programming\C++\GUIVS\SQLConnectionGUIVS\SQLConnectionGUIVS\InsertData.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Functions.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SQLConnectionGUIVS.vcxproj -> C:\Users\Josip\Documents\Programming\C++\GUIVS\SQLConnectionGUIVS\Debug\SQLConnectionGUIVS.exe
